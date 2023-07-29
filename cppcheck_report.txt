@@ -1,0 +1,446 @@
+Ports/ARC/EM6/MetaWare/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARC/EM6/MetaWare/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARC/embARC/MetaWare/os_cpu_c.c:119:22: error: There is an unknown macro here somewhere. Configuration is required. If ; is a macro then please configure it. [unknownMacro]
+    CPU_SW_EXCEPTION(;);
+                     ^
+Ports/ARM-Cortex-A/ARMv7-A/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM-Cortex-A/ARMv7-A/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM-Cortex-A/ARMv8-A/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM-Cortex-A/ARMv8-A/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM-Cortex-M/ARMv6-M/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM-Cortex-M/ARMv6-M/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM-Cortex-R/ARMv7-R/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM-Cortex-R/ARMv7-R/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM/Generic/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM/Generic/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM/Generic/RealView/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM/Generic/RealView/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ARM/Generic/RealView/os_dcc.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ARM/Generic/RealView/os_dcc.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/AVR/ATxmega128/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/AVR/ATxmega128/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/AVR32/AP7000/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/AVR32/AP7000/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/AVR32/UC3/AtmelStudio6/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/AVR32/UC3/AtmelStudio6/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/AVR32/UC3/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/AVR32/UC3/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Blackfin/VDSP++/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Blackfin/VDSP++/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/C28x/Generic/CCS/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/C28x/Generic/CCS/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/ColdFire-EMAC/Generic/CodeWarrior/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/ColdFire-EMAC/Generic/CodeWarrior/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Coldfire/Generic/CW_For_Microcontrollers/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Coldfire/Generic/CW_For_Microcontrollers/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Coldfire/Generic/CodeWarrior/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Coldfire/Generic/CodeWarrior/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Coldfire/Generic/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Coldfire/Generic/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/EnSilica/eSi-3250/EDS/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 32 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/EnSilica/eSi-3250/EDS/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/HCS12/Paged/CodeWarrior/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/HCS12/Paged/CodeWarrior/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/M14K/CodeSourcery/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/M14K/CodeSourcery/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/MIPS32-4K/Vectored-Interrupt/MPLAB-PIC32-GCC/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/MIPS32-4K/Vectored-Interrupt/MPLAB-PIC32-GCC/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/MSP430X/IAR/MSP430x5xx/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/MSP430X/IAR/MSP430x5xx/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/MicroBlaze/GNU/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/MicroBlaze/GNU/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Microchip/PIC24FJ128/C30/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Microchip/PIC24FJ128/C30/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/NiosII/GNU/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/NiosII/GNU/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/POSIX/GNU/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/POSIX/GNU/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/PPC405/GNU/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/PPC405/GNU/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/PowerPC/MPC57xx-VLE/GNU/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/PowerPC/MPC57xx-VLE/GNU/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/RISC-V/RV32/GCC/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/RISC-V/RV32/GCC/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/78K0R/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/78K0R/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/RL78/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/RL78/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/RX/GNURX/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/RX/GNURX/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/RX/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/RX/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/RX/RXC/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 31 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/RX/RXC/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/SH2A-Banked/HEW/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/SH2A-Banked/HEW/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/SH2A-FPU-Banked/HEW/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/SH2A-FPU-Banked/HEW/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/SH2A-FPU/HEW/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/SH2A-FPU/HEW/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/V850E2M/CubeSuite+/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/V850E2M/CubeSuite+/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/V850E2M/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/V850E2M/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/V850E2S/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/V850E2S/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Renesas/V850ES/IAR/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Renesas/V850ES/IAR/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Ports/Win32/Visual_Studio/os_cpu_c.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 33 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Ports/Win32/Visual_Studio/os_cpu_c.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/__dbg_uCOS-III.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/__dbg_uCOS-III.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_cfg_app.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_cfg_app.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_core.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 31 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_core.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_dbg.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_dbg.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_flag.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_flag.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_mem.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_mem.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_msg.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_msg.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_mutex.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_mutex.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_prio.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_prio.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_q.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_q.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_sem.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_sem.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_stat.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_stat.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_task.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_task.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_tick.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 29 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_tick.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_time.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_time.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_tmr.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_tmr.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Source/os_var.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 28 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+Source/os_var.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+TLS/CCES/os_tls.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+TLS/CCES/os_tls.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+TLS/IAR/os_tls.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+TLS/IAR/os_tls.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+TLS/NewLib/os_tls.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 30 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+TLS/NewLib/os_tls.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+Template/bsp_os_dt.c:190:5: error: syntax error [syntaxError]
+    if (/* $$$$ */) {                                           /* Check timer interrupt flag.                          */
+    ^
+Cfg/Template/os_app_hooks.c:85:0: style: The function 'App_OS_ClrAllHooks' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:126:0: style: The function 'App_OS_IdleTaskHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:44:0: style: The function 'App_OS_SetAllHooks' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:164:0: style: The function 'App_OS_StatTaskHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:182:0: style: The function 'App_OS_TaskCreateHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:200:0: style: The function 'App_OS_TaskDelHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:219:0: style: The function 'App_OS_TaskReturnHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:241:0: style: The function 'App_OS_TaskSwHook' is never used. [unusedFunction]
+
+^
+Cfg/Template/os_app_hooks.c:259:0: style: The function 'App_OS_TimeTickHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:127:0: style: The function 'OSIdleTaskHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:64:0: style: The function 'OSInitHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:149:0: style: The function 'OSStatTaskHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:80:0: style: The function 'OSTaskCreateHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:103:0: style: The function 'OSTaskDelHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:172:0: style: The function 'OSTaskReturnHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:207:0: style: The function 'OSTaskStkInit' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:250:0: style: The function 'OSTaskSwHook' is never used. [unusedFunction]
+
+^
+Ports/Renesas/RL78/GNURL78/os_cpu_c.c:328:0: style: The function 'OSTimeTickHook' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
